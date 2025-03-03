@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "title": "general checkup",
+        "date": "2025-03-03",
+        "time": "02:00:00",
+        "details": ""
+    },
+    {
+        "id": 2,
+        "title": "eye checkup",
+        "date": "2025-03-04",
+        "time": "01:30:00",
+        "details": ""
+    }
+]
