@@ -1,6 +1,8 @@
-streamlit>=1.24.0
-pandas>=1.5.0
-numpy>=1.23.0
-scikit-learn>=1.2.0
-gtts>=2.3.0
-playsound>=1.3.0
+streamlit==1.27.2
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.3.0
+gTTS==2.3.2
+# playsound has compatibility issues in some environments
+# replacing with a more stable alternative
+pygame==2.5.2
